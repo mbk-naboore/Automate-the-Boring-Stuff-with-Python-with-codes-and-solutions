@@ -7,5 +7,5 @@ For each chapter, there are two parts (The Chapter Projects) and (The Practice P
 
 #
 * I am working now on this book so, I will add the later chapters as I am progressing through the book.
-* If you want another great book to start your python learning journey now, you can start with [Python-Crash-Course-2nd-Edition](https://github.com/mbk-naboore/Python-Crash-Course-2nd-Edition-free-with-solutions) amazing book which has the code used along with my solutions.
+* If you want another great book to start your python learning journey now, you can start with [Python-Crash-Course-2nd-Edition-free-with-solutions](https://github.com/mbk-naboore/Python-Crash-Course-2nd-Edition-free-with-solutions) , you will find the codes used in the book along with my solutions.
 
