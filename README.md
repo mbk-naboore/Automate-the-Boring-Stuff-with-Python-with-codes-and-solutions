@@ -5,3 +5,7 @@ These are my solutions to the [Automate the Boring Stuff with Python, 2nd Ed.](h
 For each chapter, there are two parts (The Chapter Projects) and (The Practice Projects). In each chapter folder, you will find the two parts grouped in a neat way to make it easy for you to follow along.
 
 
+#
+* I am working now on this book so, I will add the later chapters as I am progressing through the book.
+
+
